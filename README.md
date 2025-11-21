@@ -1,7 +1,6 @@
 # Task 1 Taskflow APP – Project Software Engineering
 
-
-# output
+IU Student omar.lamrabet@iu-study.org
 
 <img width="596" height="569" alt="image" src="https://github.com/user-attachments/assets/0ec72fcd-d0d4-4031-a495-929c044c0897" />
 
